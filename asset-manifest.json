@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad526650.css",
+    "main.js": "/static/js/main.e7db113b.js",
+    "static/js/453.78352e00.chunk.js": "/static/js/453.78352e00.chunk.js",
+    "static/media/yourPhoto.png": "/static/media/yourPhoto.0200ac9e0ece8edb3a4e.png",
+    "static/media/demo1.mp3": "/static/media/demo1.9f36247289dbab785ae0.mp3",
+    "static/media/demo4.mp3": "/static/media/demo4.9700adce0f026c73a0eb.mp3",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/audio-wave.png": "/static/media/audio-wave.8ec7e3501b7261dc1c0a.png",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/playfair-display-latin-400-normal.woff": "/static/media/playfair-display-latin-400-normal.9c7c1543d792cb6bb2b2.woff",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/bangers-latin-400-normal.woff2": "/static/media/bangers-latin-400-normal.80f34b699569032357ff.woff2",
+    "static/media/playfair-display-latin-400-normal.woff2": "/static/media/playfair-display-latin-400-normal.01127cbe42de896f8511.woff2",
+    "static/media/bangers-latin-400-normal.woff": "/static/media/bangers-latin-400-normal.eabb56ecf482ad3ed2ad.woff",
+    "static/media/bangers-latin-ext-400-normal.woff2": "/static/media/bangers-latin-ext-400-normal.17698b16e7de5b3e70cc.woff2",
+    "static/media/playfair-display-latin-ext-400-normal.woff": "/static/media/playfair-display-latin-ext-400-normal.9ea2943ecdca370550c2.woff",
+    "static/media/bangers-latin-ext-400-normal.woff": "/static/media/bangers-latin-ext-400-normal.0a543d76c62ed9e92efd.woff",
+    "static/media/playfair-display-cyrillic-400-normal.woff": "/static/media/playfair-display-cyrillic-400-normal.e8f79ad5a76821f7165f.woff",
+    "static/media/playfair-display-latin-ext-400-normal.woff2": "/static/media/playfair-display-latin-ext-400-normal.ec5b9e3c4c997f6bac35.woff2",
+    "static/media/playfair-display-cyrillic-400-normal.woff2": "/static/media/playfair-display-cyrillic-400-normal.3dc94a1021075fd54b85.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/bangers-vietnamese-400-normal.woff2": "/static/media/bangers-vietnamese-400-normal.fa87eef970f34f534f4f.woff2",
+    "static/media/playfair-display-vietnamese-400-normal.woff": "/static/media/playfair-display-vietnamese-400-normal.40221529e528ff3e5a46.woff",
+    "static/media/bangers-vietnamese-400-normal.woff": "/static/media/bangers-vietnamese-400-normal.10e0b1b4fae943c07af1.woff",
+    "static/media/playfair-display-vietnamese-400-normal.woff2": "/static/media/playfair-display-vietnamese-400-normal.5c877b3fa47066dbb461.woff2",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.ad526650.css.map": "/static/css/main.ad526650.css.map",
+    "main.e7db113b.js.map": "/static/js/main.e7db113b.js.map",
+    "453.78352e00.chunk.js.map": "/static/js/453.78352e00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad526650.css",
+    "static/js/main.e7db113b.js"
+  ]
+}
