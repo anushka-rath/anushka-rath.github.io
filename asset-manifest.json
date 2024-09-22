@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e607b11a.css",
+    "main.css": "/static/css/main.244cf9d1.css",
     "main.js": "/static/js/main.25c494e3.js",
     "static/js/453.78352e00.chunk.js": "/static/js/453.78352e00.chunk.js",
     "static/media/yourPhoto.png": "/static/media/yourPhoto.0200ac9e0ece8edb3a4e.png",
@@ -35,12 +35,12 @@
     "static/media/playfair-display-vietnamese-400-normal.woff2": "/static/media/playfair-display-vietnamese-400-normal.5c877b3fa47066dbb461.woff2",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/index.html",
-    "main.e607b11a.css.map": "/static/css/main.e607b11a.css.map",
+    "main.244cf9d1.css.map": "/static/css/main.244cf9d1.css.map",
     "main.25c494e3.js.map": "/static/js/main.25c494e3.js.map",
     "453.78352e00.chunk.js.map": "/static/js/453.78352e00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e607b11a.css",
+    "static/css/main.244cf9d1.css",
     "static/js/main.25c494e3.js"
   ]
 }
